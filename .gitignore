@@ -2,7 +2,7 @@
 !.gitignore
 !build.sh
 !CMakeLists.txt
-!main.cpp
+!main_gui.cpp
 !mainwindow.cpp
 !mainwindow.h
 !moc_mainwindow.cpp
